@@ -1,0 +1,18 @@
+{
+	"name": "zeitgeist13/yii2-tagcloud-widget",
+	"description": "Simple widget to display an array of tags as a tagcloud",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension","widget","tags","tagcloud"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Florian Werner",
+			"email": "fwerner13@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"zeitgeist13\\tagcloud\\": ""
+		}
+	}
+}
